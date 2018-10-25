@@ -31,3 +31,12 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction()()
 //first () return function(), second () returns FNUKY.
+
+const myFunc = (color) => {
+  console.log(color)
+}
+
+myFunc("Blue")
+
+
+
